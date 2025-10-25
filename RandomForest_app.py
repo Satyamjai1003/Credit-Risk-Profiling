@@ -1161,7 +1161,7 @@ with st.sidebar:
     
 # --- Header ---
 # st.markdown("<div class='card'>", unsafe_allow_html=True)
-st.title("💳 Interactive Credit Risk Predictor")
+st.title("💳 Credit Risk Predictor")
 st.markdown("<p>Enter your details in the sections below to receive an instant credit score category prediction from our machine learning model.</p>", unsafe_allow_html=True)
 st.markdown("</div>", unsafe_allow_html=True)
 
